@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  <a href="pires.lucas94@gmail.com" alt="Gmail">
+  <a href="mailto:pires.lucas94@gmail alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/lucas-ribeiro-pires-0b4516140/" alt="Linkedin">
