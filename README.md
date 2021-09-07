@@ -1,6 +1,6 @@
 <p align="left"> 
-  Hi,my name is Lucas and i am a <strong>developer</strong>.<br>
-  I am working as a web developer on Antena 1
+  Hi, my name is Lucas and I'm a <strong>developer</strong>.<br>
+  I'm working as a web developer on Antena 1
 </p>
 <p align="left">
   🦄 Languages: <strong>I work mostly with Javascript and Python</strong>
