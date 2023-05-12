@@ -1,7 +1,19 @@
 <p align="left"> 
   Hi, my name is Lucas and I'm a <strong>developer</strong>.<br>
-  I'm working as a web developer on Antena 1
 </p>
+
+<p align="left"> 
+Full Stack software developer highly motivated with experience in developing web and mobile applications. Proficient in several programming languages, including Javascript, Typescript, and Python, as well as various technologies such as Docker, Django, GraphQL, Cloud Computing, Node, React, and Next.js.
+</p>
+
+<p align="left"> 
+Specialized in object-oriented software development, software architecture, and database design. Knowledgeable in agile methodologies, including Scrum and Kanban. Experienced in working with cross-functional teams and collaborating with clients to create high-quality software solutions. Skilled in problem-solving and delivering results within established timelines. Proactive, focused, and always looking for new challenges. Open to learning new technologies and contributing to open-source projects, as knowledge should always be shared.
+</p>
+
+<p align="left"> 
+My goal is to evolve and thrive.
+</p>
+
 <p align="left">
   🦄 Languages: <strong>I work mostly with Javascript and Python</strong>
 </p>
